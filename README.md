@@ -76,4 +76,5 @@ For more examples and advanced usage, see the [documentation](docs/README.md).
 
 ## License
 
-MIT
+Apache License 2.0
+```
